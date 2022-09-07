@@ -24,19 +24,22 @@
     var gitalkConfig = {
       clientID: 'a20572d4fc20388a8e7f',
       clientSecret: 'a57c763b0c37e70083e13c2c8c766a45e237ded9',
-      repo: 'www.chaisha.com',
+      repo: 'ufucms.github.io',
       owner: 'ufucms',
       admin: ["ufucms"],
       distractionFreeMode: false
     };
     window.$docsify = {
       name: '拆鲨网 — 干就完了',
-      repo: 'https://github.com/ufucms/ufucms.github.io',
+      repo: 'https://www.chaisha.com',
       auto2top: true,
       coverpage: true,
       loadSidebar: true,
       maxLevel: 4,
       subMaxLevel: 2,
+      alias: {
+        "/.*/_sidebar.md": "/_sidebar.md",
+      },
       search: {
         paths: 'auto',
         placeholder: '🔍 输入搜索关键字 ',
