@@ -1,8 +1,13 @@
 - [:octocat: 首页](/README)
 - :memo: 目录大纲
-    - 关于我
-        - [初衷](/md/about/初衷.md)
-        - [关于我](/md/about/关于我.md)
+    - 随笔记
+        - [Laravel](/md/notes/laravel.md)
+        - [PHP](/md/notes/php.md)
+        - [MySQL](/md/notes/mysql.md)
+        - [UniAPP](/md/notes/uniapp.md)
+        - [HTML](/md/notes/uniapp.md)
+        - [CSS](/md/notes/uniapp.md)
+        - [JavaScript](/md/notes/javascript.md)
 
     - 编程技巧
         - [PHP](/md/skill/php.md)
