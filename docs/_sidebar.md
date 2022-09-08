@@ -5,8 +5,8 @@
         - [PHP](/md/notes/php.md)
         - [MySQL](/md/notes/mysql.md)
         - [UniAPP](/md/notes/uniapp.md)
-        - [HTML](/md/notes/uniapp.md)
-        - [CSS](/md/notes/uniapp.md)
+        - [HTML](/md/notes/html.md)
+        - [CSS](/md/notes/css.md)
         - [JavaScript](/md/notes/javascript.md)
 
     - 编程技巧
